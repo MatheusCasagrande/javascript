@@ -7,4 +7,3 @@ console.log('Linha 1')
  * linhas
  */
 console.log("Multiplas linhas")
-
