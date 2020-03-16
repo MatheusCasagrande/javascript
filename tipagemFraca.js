@@ -1,3 +1,4 @@
+//aula4
 let a = 'Matheus Gomes'
 console.log(a)
 //typeof - mostra o tipo da variavel
